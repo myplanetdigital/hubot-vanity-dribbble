@@ -2,7 +2,7 @@
 
 A hubot script for battling it out via dribbble follower count.
 
-See [`src/hello-world.coffee`](src/hello-world.coffee) for full documentation.
+See [`src/vanity-dribbble.coffee`](src/vanity-dribbble.coffee) for full documentation.
 
 ## Installation
 
@@ -24,10 +24,3 @@ Add **hubot-vanity-dribbble** to your `external-scripts.json`:
 ```
 
 Run `npm install`
-
-## Sample Interaction
-
-```
-user1>> hubot hello
-hubot>> hello!
-```
